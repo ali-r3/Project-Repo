@@ -3,8 +3,13 @@ import pandas as pd
 import numpy as np
 
 CITY_DATA = { 'chicago': 'chicago.csv',
+<<<<<<< HEAD
               'new york city': 'new_york_city.csv'
               }
+=======
+              'new york city': 'new_york_city.csv',
+              'washington': 'washington.csv' }
+>>>>>>> documentation
 
 #welcome term             
 print("welcome to bikeshare program")
