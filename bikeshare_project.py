@@ -5,11 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
-<<<<<<< HEAD
-print(" 'Hello World' ")                
-=======
-print(" 'Hello World' ")
->>>>>>> da4717f1027c7b07e55bf2bcfbb274e1a08634c3
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
